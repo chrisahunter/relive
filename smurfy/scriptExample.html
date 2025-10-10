@@ -92,46 +92,7 @@
     </div>
   </div>
 
-  <script>
-    // --- Simple local echo chatbot logic for testing ---
-    const log = document.getElementById("chat-log");
-    const input = document.getElementById("user-input");
-    const sendBtn = document.getElementById("send-btn");
-
-    function addMessage(text, sender) {
-      const msg = document.createElement("div");
-      msg.className = "message " + sender;
-      msg.textContent = text;
-      log.appendChild(msg);
-      log.scrollTop = log.scrollHeight;
-    }
-
-    function fakeSmurfwiseResponse(prompt) {
-      // Replace this section with your actual chatbot API call
-      const lower = prompt.toLowerCase();
-      if (lower.includes("reishi")) {
-        return "Reishi supports immune balance, but be mindful of its bleeding risk, my curious friend 🍄";
-      } else if (lower.includes("lion")) {
-        return "Ah, Lion’s Mane — the brainy mushroom! Helps with focus, maybe — still early days in research.";
-      } else {
-        return "Smurfwise ponders your question… mushrooms teach patience. 🧠🍄";
-      }
-    }
-
-    sendBtn.onclick = () => {
-      const userText = input.value.trim();
-      if (!userText) return;
-      addMessage(userText, "user");
-      input.value = "";
-      setTimeout(() => addMessage(fakeSmurfwiseResponse(userText), "bot"), 500);
-    };
-
-    input.addEventListener("keydown", (e) => {
-      if (e.key === "Enter" && !e.shiftKey) {
-        e.preventDefault();
-        sendBtn.click();
-      }
-    });
+ 
 
     <!-- Script Start -->
 <script type="text/javascript">
