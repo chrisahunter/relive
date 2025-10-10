@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smurfwise Chatbot Demo</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f3f6f4;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #2a4731;
+      color: #fff;
+      padding: 1rem 2rem;
+      width: 100%;
+      text-align: center;
+      font-size: 1.5rem;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    }
+    #chat-container {
+      flex: 1;
+      width: 90%;
+      max-width: 700px;
+      background: #fff;
+      margin: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    #chat-log {
+      flex: 1;
+      padding: 1rem;
+      overflow-y: auto;
+      font-size: 1rem;
+    }
+    .message {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+    }
+    .user {
+      text-align: right;
+      color: #2a4731;
+      font-weight: bold;
+    }
+    .bot {
+      text-align: left;
+      color: #444;
+    }
+    #chat-input {
+      display: flex;
+      border-top: 1px solid #ccc;
+    }
+    textarea {
+      flex: 1;
+      border: none;
+      padding: 1rem;
+      resize: none;
+      font-size: 1rem;
+      outline: none;
+    }
+    button {
+      background: #2a4731;
+      color: #fff;
+      border: none;
+      padding: 0 1.5rem;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #366140;
+    }
+  </style>
+</head>
+
+<body>
+  <header>🧙‍♂️ Smurfwise Chatbot Demo</header>
+
+  <div id="chat-container">
+    <div id="chat-log"></div>
+    <div id="chat-input">
+      <textarea id="user-input" rows="1" placeholder="Ask Smurfwise about mushrooms..."></textarea>
+      <button id="send-btn">Send</button>
+    </div>
+  </div>
+
+  <script>
+    // --- Simple local echo chatbot logic for testing ---
+    const log = document.getElementById("chat-log");
+    const input = document.getElementById("user-input");
+    const sendBtn = document.getElementById("send-btn");
+
+    function addMessage(text, sender) {
+      const msg = document.createElement("div");
+      msg.className = "message " + sender;
+      msg.textContent = text;
+      log.appendChild(msg);
+      log.scrollTop = log.scrollHeight;
+    }
+
+    function fakeSmurfwiseResponse(prompt) {
+      // Replace this section with your actual chatbot API call
+      const lower = prompt.toLowerCase();
+      if (lower.includes("reishi")) {
+        return "Reishi supports immune balance, but be mindful of its bleeding risk, my curious friend 🍄";
+      } else if (lower.includes("lion")) {
+        return "Ah, Lion’s Mane — the brainy mushroom! Helps with focus, maybe — still early days in research.";
+      } else {
+        return "Smurfwise ponders your question… mushrooms teach patience. 🧠🍄";
+      }
+    }
+
+    sendBtn.onclick = () => {
+      const userText = input.value.trim();
+      if (!userText) return;
+      addMessage(userText, "user");
+      input.value = "";
+      setTimeout(() => addMessage(fakeSmurfwiseResponse(userText), "bot"), 500);
+    };
+
+    input.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" && !e.shiftKey) {
+        e.preventDefault();
+        sendBtn.click();
+      }
+    });
+
+    // --- Placeholder for external chatbot widget script ---
+    // Example (if using OpenAI Assistants API or Horizons widget):
+    // <script src="https://example.com/chatbot.js"></script>
+  </script>
+</body>
+</html>
