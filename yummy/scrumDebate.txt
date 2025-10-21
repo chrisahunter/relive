@@ -1,0 +1,505 @@
+Brett Sears
+14 minutes 45 seconds14:45
+Brett Sears 14 minutes 45 seconds
+Anyone have any other items?
+
+Sathyaraj Vadivel
+14 minutes 50 seconds14:50
+Sathyaraj Vadivel 14 minutes 50 seconds
+Did I have one question? Oh, sorry, go ahead.
+
+Brett Sears
+14 minutes 51 seconds14:51
+Brett Sears 14 minutes 51 seconds
+So go ahead. No, you you can do yours first.
+
+Sathyaraj Vadivel
+14 minutes 56 seconds14:56
+Sathyaraj Vadivel 14 minutes 56 seconds
+Yeah, it's a generic question. So after I committed a story to a Sprint, if I see the story point is not sufficient, so I I can we discuss with team and make sure I'll get enough story points, right? Is that acceptable or it's very strict?
+
+Brett Sears
+15 minutes 12 seconds15:12
+Brett Sears 15 minutes 12 seconds
+That's not. So it's typically strict. So once it's added to the to the Sprint and given story points, it should not be increased or decreased. You that that's again, you still get the time. It's not like you don't get the time to work on it.
+Brett Sears 15 minutes 32 seconds
+But it's about what what we committed to. So the Sprint. Yeah, go ahead.
+
+Sathyaraj Vadivel
+15 minutes 36 seconds15:36
+Sathyaraj Vadivel 15 minutes 36 seconds
+Actually it's I spent the agile. Agile is mainly for flexible, right? It's not like a strictly we need to stick with that estimation if someone estimated as two. But end of day when we are rewriting that scope got elaborated and what the implementation may leads to more work.
+
+Carmen-Bianca Moldovan-Pavel
+15 minutes 38 seconds15:38
+Carmen-Bianca Moldovan-Pavel 15 minutes 38 seconds
+But can.
+
+Sathyaraj Vadivel
+15 minutes 55 seconds15:55
+Sathyaraj Vadivel 15 minutes 55 seconds
+So on that analysis I for figure out it may required not two, it may need more than two-story points. So on that case it's always have to be re discussed, right?
+
+Christopher Hunter
+16 minutes 4 seconds16:04
+Christopher Hunter 16 minutes 4 seconds
+It.
+
+Brett Sears
+16 minutes 6 seconds16:06
+Brett Sears 16 minutes 6 seconds
+If if it's added to a new Sprint, yes. If it's in an existing Sprint, then no is is what the general rule is. So it.
+
+Carmen-Bianca Moldovan-Pavel
+16 minutes 14 seconds16:14
+Carmen-Bianca Moldovan-Pavel 16 minutes 14 seconds
+Well.
+
+Sathyaraj Vadivel
+16 minutes 15 seconds16:15
+Sathyaraj Vadivel 16 minutes 15 seconds
+Yeah, the Sprint started yesterday and today when I unless I found it, so will that allow to change it?
+
+Carmen-Bianca Moldovan-Pavel
+16 minutes 19 seconds16:19
+Carmen-Bianca Moldovan-Pavel 16 minutes 19 seconds
+Mm.
+
+Brett Sears
+16 minutes 27 seconds16:27
+Brett Sears 16 minutes 27 seconds
+Yeah, I I I mean it's if if it's still not really worked on, I think we can be flexible and technically once it's in this actual Sprint and the Sprint started, you're not supposed to.
+
+Carmen-Bianca Moldovan-Pavel
+16 minutes 37 seconds16:37
+Carmen-Bianca Moldovan-Pavel 16 minutes 37 seconds
+Yeah.
+Carmen-Bianca Moldovan-Pavel 16 minutes 40 seconds
+What? What? What matters for us here that we finish all the story points that we committed at the beginning of the Sprint, or that the story points doesn't get changed after we?
+Carmen-Bianca Moldovan-Pavel 16 minutes 56 seconds
+Estimated, for example, three story points. So do we want to track that? We estimated three story points, but then we realize this like 8 story points or five story points. Do we want to track that? Because if we don't want to track that and that's not important for us because.
+Carmen-Bianca Moldovan-Pavel 17 minutes 14 seconds
+Our development is pretty flexible and it's dependent on a lot of external factor factors. Then we just remove a different story that we have assigned, right? So if we add 3 new story points, then we can remove 3 story points or another.
+
+Brett Sears
+17 minutes 22 seconds17:22
+Brett Sears 17 minutes 22 seconds
+Right.
+
+Carmen-Bianca Moldovan-Pavel
+17 minutes 30 seconds17:30
+Carmen-Bianca Moldovan-Pavel 17 minutes 30 seconds
+Task that we assigned in the sprint. So that way we keep the the scope that we was assigned for for a member for example because it should be flexible because otherwise it's I don't know it's it's somehow.
+Carmen-Bianca Moldovan-Pavel 17 minutes 49 seconds
+Blocking us in the development procedure, right? Because you don't always see all the implications that a feature may have when you are doing the planning or when you are doing the grooming or we work with external teams, so.
+
+Brett Sears
+18 minutes18:00
+Brett Sears 18 minutes
+Yep.
+Brett Sears 18 minutes 3 seconds
+Yep, so so the way Scrum was originally done and and again.
+Brett Sears 18 minutes 9 seconds
+This is this is more based off just the methodology, not the actual in practice. But once you did your sprints planning and you committed as a team, this is what we're going to get done in a Sprint. You can't. You're not really supposed to change that in an original.
+Brett Sears 18 minutes 28 seconds
+Scrum. What would happen is if you decided to change scope or if the business changed priority and they wanted something else done, you would end that Sprint on that day and you would stop the Sprint in the middle and you would start a new Sprint that the the that day or the next day with the new new scope in the new.
+Brett Sears 18 minutes 48 seconds
+New estimates and the new everything. So from the perfect true scrum perspective, you're not supposed to change a point of a story in a current Sprint that is running.
+Brett Sears 19 minutes 2 seconds
+However, everyone does it because again, there is no such thing as true Scrum anymore because of how things are set up in companies today. So there's a little bit of leeway and we can decide what we think works best for our team.
+
+Carmen-Bianca Moldovan-Pavel
+19 minutes 2 seconds19:02
+Carmen-Bianca Moldovan-Pavel 19 minutes 2 seconds
+Yeah.
+
+Brett Sears
+19 minutes 18 seconds19:18
+Brett Sears 19 minutes 18 seconds
+And make those decisions.
+Brett Sears 19 minutes 21 seconds
+Asper or what you're saying, Carmen, on do we track it? Do I care that you had a Sprint that you said was three points that we came out eight? I personally don't because I know at the time we estimated, we estimated based off the information we had when we get into stories.
+
+Carmen-Bianca Moldovan-Pavel
+19 minutes 22 seconds19:22
+Carmen-Bianca Moldovan-Pavel 19 minutes 22 seconds
+This would be awesome.
+
+Brett Sears
+19 minutes 41 seconds19:41
+Brett Sears 19 minutes 41 seconds
+We get more information and when we start coding, we're going to notice things or find things that we didn't think about. That's just estimation in in general. So I don't really mind if it takes and needs to push something out, then I kind of mind.
+Brett Sears 20 minutes 1 second
+That hey, we need to talk and find out what's more important, what can we remove or what can we not deliver on our promise because we missed an estimate or or we found out that it's more complex than we thought and that's just a discussion and and typically as long as you're you're upfront with the product.
+Brett Sears 20 minutes 21 seconds
+Owner and say, hey, you know, we looked at this, we didn't think we were going to need to do this other function because we thought it would work with this one, but it's not. It's going to be more complex. We need another five days. Typically they will be like, OK, yeah, that's priority. We really want that. So go ahead and move this one to the next Sprint.
+Brett Sears 20 minutes 43 seconds
+Does that make sense?
+
+Carmen-Bianca Moldovan-Pavel
+20 minutes 47 seconds20:47
+Carmen-Bianca Moldovan-Pavel 20 minutes 47 seconds
+So basically we discuss if this gains case comes up and we decide what to do, right? So it's not written in stone.
+
+Brett Sears
+20 minutes 54 seconds20:54
+Brett Sears 20 minutes 54 seconds
+Yes.
+Brett Sears 20 minutes 56 seconds
+It's not written in. There's nothing really ever written in stone in Scrum because even the the hard rules you can, you cannot do if it is beneficial to the team and provides value to the business.
+
+Carmen-Bianca Moldovan-Pavel
+20 minutes 57 seconds20:57
+Carmen-Bianca Moldovan-Pavel 20 minutes 57 seconds
+Uh.
+
+Brett Sears
+21 minutes 14 seconds21:14
+Brett Sears 21 minutes 14 seconds
+Right. Because that's really the only 10 a minute scrum is we should be trying to provide the most business benefit as fast as we can.
+Brett Sears 21 minutes 28 seconds
+That answer your question?
+
+Sathyaraj Vadivel
+21 minutes 30 seconds21:30
+Sathyaraj Vadivel 21 minutes 30 seconds
+Is that clear for me?
+
+Brett Sears
+21 minutes 31 seconds21:31
+Brett Sears 21 minutes 31 seconds
+Because it's it's like clear as mud for me. But that's Scrum, right? That's why I kind of like Scrum is we can tailor it to work for the team. The team is supposed to be self-managed. You guys are supposed to manage yourselves.
+Brett Sears 21 minutes 48 seconds
+I'm not your project manager, right? There is no concept of project management in Scrum. So that's that's where the benefit is, is you guys know what you're doing. You know better than I do what will work best for you.
+EV
+Evert Vandeworp
+21 minutes 55 seconds21:55
+Evert Vandeworp 21 minutes 55 seconds
+Thank you. Yep.
+
+Brett Sears
+22 minutes 5 seconds22:05
+Brett Sears 22 minutes 5 seconds
+And then I just provide you with suggestions on things I've done in the past or ways I've handled those situations in the past and you guys decide what works.
+
+Sathyaraj Vadivel
+22 minutes 16 seconds22:16
+Sathyaraj Vadivel 22 minutes 16 seconds
+Sure, I think Hunter was raising hand, but hidden on your screens.
+
+Brett Sears
+22 minutes 21 seconds22:21
+Brett Sears 22 minutes 21 seconds
+OK.
+Brett Sears 22 minutes 23 seconds
+Hunter.
+
+Sathyaraj Vadivel
+22 minutes 24 seconds22:24
+Sathyaraj Vadivel 22 minutes 24 seconds
+This.
+
+Christopher Hunter
+22 minutes 27 seconds22:27
+Christopher Hunter 22 minutes 27 seconds
+I know we do scrum differently here, but to kind of answer the question and address maybe some of the anxiety that's being felt by committing to story points when we're associating story points with days.
+Christopher Hunter 22 minutes 42 seconds
+Traditionally, story points are not supposed to relate to units of time. In fact, they're supposed to solve the problem of humans being horrible at estimating time, or how long something's going to take.
+
+Brett Sears
+22 minutes 54 seconds22:54
+Brett Sears 22 minutes 54 seconds
+That's a misnomer.
+
+Christopher Hunter
+22 minutes 57 seconds22:57
+Christopher Hunter 22 minutes 57 seconds
+Humans are really good at estimating relative size of things, relative effort, but they aren't great at estimating time.
+Christopher Hunter 23 minutes 13 seconds
+At least based on the studies I've read. And so anyway.
+
+Brett Sears
+23 minutes 15 seconds23:15
+Brett Sears 23 minutes 15 seconds
+So little bit of a misnomer on that. So I I is is well.
+
+Christopher Hunter
+23 minutes 20 seconds23:20
+Christopher Hunter 23 minutes 20 seconds
+Yeah, we'll just have to agree to disagree on that. But but there's a couple of things like I've I've worked on over a dozen different scrum teams, maybe more spent weeks in Microsoft and Redmond training with people that.
+Christopher Hunter 23 minutes 35 seconds
+Wrote the book on Scrum, literally. So I feel like I have a little bit of, you know, experience with this when I when I talk to it and I can tell you that it's a it's a big no no, but if you don't.
+Christopher Hunter 23 minutes 50 seconds
+Believe it. Go ask ChatGPT. Is it OK to, you know, correlate story points to units of time and it'll come back and say no, no. But this what the the the stress they're feeling is, hey, they think they're committing to five days of work and now it's gonna take seven days. Oh no.
+
+Brett Sears
+23 minutes 58 seconds23:58
+Brett Sears 23 minutes 58 seconds
+So, so again, there's.
+
+
+Brett Sears 27 minutes 4 seconds
+So if you have a two-week Sprint, how do you know how many T-shirt sizes you can take in a given Sprint? Well, because you know you can do 4-4 small T-shirt sizes in a given Sprint because you have that much time because.
+Brett Sears 27 minutes 19 seconds
+What it ends up being is each small T-shirt size is 2 days or three days, right? It it always gets brought back to time. So it's it's better to just get better at estimating and understand that no estimate is ever going to be perfect.
+Brett Sears 27 minutes 34 seconds
+Right. You're using information, incomplete information to create an estimate. As you in or do more analysis and start working on the story, you're going to find things that you didn't think about, and that's OK, right? But as you get better with estimating, you know to build in.
+Brett Sears 27 minutes 54 seconds
+Additional time based off what you don't know. So typically you'll take what's the risk, what is the amount of information that's unknown and then you'll factor that into your estimate so that you actually provide a lot better estimates. I I've had to estimate five year plans.
+Brett Sears 28 minutes 14 seconds
+And I've been within 10%. It's it's a skill. It's something that you develop and it's something that will help you in your careers as you move up into leadership positions. That estimation skill will be very, very valuable.
+
+Brett Sears
+23 minutes 58 seconds23:58
+Brett Sears 23 minutes 58 seconds
+So, so again, there's.
+
+Christopher Hunter
+24 minutes 8 seconds24:08
+Christopher Hunter 24 minutes 8 seconds
+You shouldn't have to feel that. It's gonna be like the the points are just relative effort and it's OK to get it wrong because at this at the end you just say, OK, well we overestimated or underestimated.
+
+Brett Sears
+24 minutes 8 seconds24:08
+Brett Sears 24 minutes 8 seconds
+It it it's no, but it there's no go ahead.
+
+Carmen-Bianca Moldovan-Pavel
+24 minutes 8 seconds24:08
+Carmen-Bianca Moldovan-Pavel 24 minutes 8 seconds
+You know.
+
+Christopher Hunter
+24 minutes 23 seconds24:23
+Christopher Hunter 24 minutes 23 seconds
+But here's the velocity we delivered. And so when we plan the next Sprint, then that's the velocity we're going to use. And then you just, you know, eventually as a scrum team goes through planning, execution, retrospectives, you know that percentage that they miss usually dwindles down to.
+Christopher Hunter 24 minutes 42 seconds
+About a 10% plus or minus, but it takes time, right, to get to that point. But I wouldn't sweat it if you know you committed to three points and you know it's going to be 5 points. If you committed to three days, it's going to take five days because you know.
+Christopher Hunter 24 minutes 58 seconds
+We'll just record the amount of points it took for that Sprint, how many were completed, or if they weren't, it gets bumped off. That's fine too. Got pushed out and you know, take that velocity and use it to plan the next one. So but.
+
+Brett Sears
+25 minutes 12 seconds25:12
+Brett Sears 25 minutes 12 seconds
+So, so go ahead.
+
+Carmen-Bianca Moldovan-Pavel
+25 minutes 14 seconds25:14
+Carmen-Bianca Moldovan-Pavel 25 minutes 14 seconds
+Is this is this part with story points that we commit to a Sprint being tracked at team level somehow?
+
+Brett Sears
+25 minutes 22 seconds25:22
+Brett Sears 25 minutes 22 seconds
+Say that again.
+
+Carmen-Bianca Moldovan-Pavel
+25 minutes 24 seconds25:24
+Carmen-Bianca Moldovan-Pavel 25 minutes 24 seconds
+This part with the story points, right? Because we at team level estimate in days the story points we we had some resistance at the beginning with this, but we get got accustomed with it and the idea, the ideal it would be that we estimate the effort for the task, not exactly the days.
+Carmen-Bianca Moldovan-Pavel 25 minutes 43 seconds
+Because a task can be 5 story points, just a second. So a task can be 5 story points from a complexity point of view. One person can deliver this task in two days. Another person with a different different level of experience can deliver it in five days.
+
+Brett Sears
+25 minutes 44 seconds25:44
+Brett Sears 25 minutes 44 seconds
+So So what?
+
+Christopher Hunter
+25 minutes 44 seconds25:44
+Christopher Hunter 25 minutes 44 seconds
+Yes.
+
+Brett Sears
+25 minutes 48 seconds25:48
+Brett Sears 25 minutes 48 seconds
+Sure.
+
+Carmen-Bianca Moldovan-Pavel
+25 minutes 59 seconds25:59
+Carmen-Bianca Moldovan-Pavel 25 minutes 59 seconds
+So that's why we estimated the effort, that's why we do the poker planning and so on. So the idea is, is this tracked at? So are we the only ones who estimate in days the OK?
+
+Brett Sears
+26 minutes26:00
+Brett Sears 26 minutes
+Correct.
+Brett Sears 26 minutes 11 seconds
+No. So so there what what what Hunter's talking about and I've talked with Ken and oh what's his name Jeff about this is this is one of the things they were trying to do and and Chris's or Hunter's right.
+
+Christopher Hunter
+26 minutes 23 seconds26:23
+Christopher Hunter 26 minutes 23 seconds
+OK.
+
+Brett Sears
+26 minutes 26 seconds26:26
+Brett Sears 26 minutes 26 seconds
+People are typically really bad at estimations, right? They don't. They don't do it. But estimation is a skill, just like anything else, just like coding is a skill. You get better at it the more you do it. So I I talked with them about this and this is one of the things I think they really messed up is they were trying.
+
+Carmen-Bianca Moldovan-Pavel
+26 minutes 37 seconds26:37
+Carmen-Bianca Moldovan-Pavel 26 minutes 37 seconds
+OK.
+
+Brett Sears
+26 minutes 46 seconds26:46
+Brett Sears 26 minutes 46 seconds
+Trying to find a way to not have estimates based off time, but no matter what you use, it's still based off time. Even if you use T-shirt size, it's still based off time because your Sprint is based off time.
+Brett Sears 27 minutes 4 seconds
+So if you have a two-week Sprint, how do you know how many T-shirt sizes you can take in a given Sprint? Well, because you know you can do 4-4 small T-shirt sizes in a given Sprint because you have that much time because.
+Brett Sears 27 minutes 19 seconds
+What it ends up being is each small T-shirt size is 2 days or three days, right? It it always gets brought back to time. So it's it's better to just get better at estimating and understand that no estimate is ever going to be perfect.
+Brett Sears 27 minutes 34 seconds
+Right. You're using information, incomplete information to create an estimate. As you in or do more analysis and start working on the story, you're going to find things that you didn't think about, and that's OK, right? But as you get better with estimating, you know to build in.
+Brett Sears 27 minutes 54 seconds
+Additional time based off what you don't know. So typically you'll take what's the risk, what is the amount of information that's unknown and then you'll factor that into your estimate so that you actually provide a lot better estimates. I I've had to estimate five year plans.
+Brett Sears 28 minutes 14 seconds
+And I've been within 10%. It's it's a skill. It's something that you develop and it's something that will help you in your careers as you move up into leadership positions. That estimation skill will be very, very valuable.
+
+Carmen-Bianca Moldovan-Pavel
+28 minutes 31 seconds28:31
+Carmen-Bianca Moldovan-Pavel 28 minutes 31 seconds
+Well, what I was thinking here is that for example, if we estimate based on complexity, like we have tasks that have a lot of complexity, right? But if you take that complexity and if you reduce it to days, then it's no more complexity, right? You have to fit a certain.
+
+Brett Sears
+28 minutes 41 seconds28:41
+Brett Sears 28 minutes 41 seconds
+Yep.
+
+Carmen-Bianca Moldovan-Pavel
+28 minutes 50 seconds28:50
+Carmen-Bianca Moldovan-Pavel 28 minutes 50 seconds
+Amount of time to meet. Yeah, you don't have to, but then you lose the complexity because then it's basically it's lost. If you have only five days for example, but the task is more complex, then it doesn't reveal at the end of the sprint.
+
+Brett Sears
+28 minutes 51 seconds28:51
+Brett Sears 28 minutes 51 seconds
+No, you don't have to.
+Brett Sears 29 minutes 2 seconds
+Mhm.
+
+Carmen-Bianca Moldovan-Pavel
+29 minutes 7 seconds29:07
+Carmen-Bianca Moldovan-Pavel 29 minutes 7 seconds
+The the complexity of the features that were delivered, right? Because if you said if you said two-story points or two days for a task and that task has a five story point complexity, for example, you delivered 5 story points of complexity at the end of the Sprint, but then it's only two-story points.
+Carmen-Bianca Moldovan-Pavel 29 minutes 26 seconds
+And it's kind of normalized between all of us, right. So at at the team level, we are kind of not delivering any complexity how I see it if it were to analyze this at the team level. So I'm not sure what is being tracked here or.
+
+Brett Sears
+29 minutes 26 seconds29:26
+Brett Sears 29 minutes 26 seconds
+I see what you're saying.
+Brett Sears 29 minutes 30 seconds
+Yeah.
+Brett Sears 29 minutes 43 seconds
+So what what they?
+
+Carmen-Bianca Moldovan-Pavel
+29 minutes 43 seconds29:43
+Carmen-Bianca Moldovan-Pavel 29 minutes 43 seconds
+You know so because this is how you see if you need to improve something.
+
+Brett Sears
+29 minutes 47 seconds29:47
+Brett Sears 29 minutes 47 seconds
+So, so what they're what they're looking to do in Scrum is is to find the team's velocity, right? So a number that kind of represents how much work can be done in a given time in a given Sprint.
+Brett Sears 30 minutes 3 seconds
+Right. So we we typically set our velocity at 8 story points per person during a a 10 day Sprint. So our velocity would be 80% of the team's work and that would be what we're targeting for a velocity standpoint then we would.
+Brett Sears 30 minutes 23 seconds
+Use that velocity to look at the backlog and determine when do we think things would get done based off this velocity. Does that make sense? It's not based off complexity or how difficult things is. It's more based off.
+
+Carmen-Bianca Moldovan-Pavel
+30 minutes 38 seconds30:38
+Carmen-Bianca Moldovan-Pavel 30 minutes 38 seconds
+Yep.
+
+Brett Sears
+30 minutes 42 seconds30:42
+Brett Sears 30 minutes 42 seconds
+A a set number of points that the team is consistently able to hit over a given Sprint so that we can then take that number, apply it to the backlog and get.
+Brett Sears 30 minutes 59 seconds
+Kind of a rough idea of when we'll be able to deliver items in the backlog.
+Brett Sears 31 minutes 6 seconds
+And we don't have to use days, right? But like I said, you guys can choose what works best for you. You can use T-shirt sizes, dogs. I mean, I've used just about everything there is to use. I've used at least once or twice just to try it out with foods.
+Brett Sears 31 minutes 24 seconds
+It's up to you guys how you want to to do this. I think you guys were using Fibonacci before and but even then you had a conversion for your Fibonacci and what that meant and how much you could do, right? So how do you determine how many stories you can take in a two-week time?
+Brett Sears 31 minutes 43 seconds
+And train.
+Brett Sears 31 minutes 46 seconds
+Right. You have to. Effort has to be considered, otherwise you would have no idea how many T-shirts or dogs you can have.
+
+Christopher Hunter
+31 minutes 57 seconds31:57
+Christopher Hunter 31 minutes 57 seconds
+And just did.
+
+Carmen-Bianca Moldovan-Pavel
+31 minutes 58 seconds31:58
+Carmen-Bianca Moldovan-Pavel 31 minutes 58 seconds
+I think This is why we chose days.
+
+Brett Sears
+32 minutes32:00
+Brett Sears 32 minutes
+It's it's the least least complex way of doing it, yes.
+
+Christopher Hunter
+32 minutes 1 second32:01
+Christopher Hunter 32 minutes 1 second
+Yeah, well, but.
+Christopher Hunter 32 minutes 4 seconds
+Yeah, but it can lead. Yeah, it's considered by and large an anti-pattern with Sprint, with with Scrum. Sorry, I was going to say it's not necessarily complexity, guys. It's kind of a mixture of complexity, risk, effort, but it's relative, right? The whole idea is that you're supposed to have them relative to each other.
+Christopher Hunter 32 minutes 24 seconds
+Which is why they talk about T-shirt sizes, right? Which is why they would use a Fibonacci sequence versus just 12345, right? They want you to think, OK, small is smaller than medium, medium is smaller than large, right? And so as the team grows, they get an idea when they say this, when they think of a story.
+Christopher Hunter 32 minutes 43 seconds
+It's, oh, yeah, that's a small story for the team to work on. Oh, that's a medium team. And they're thinking about and they're relating it back to like how many small stories or how many medium stories, you know, the it's the relative size that matters, not necessarily.
+Christopher Hunter 32 minutes 58 seconds
+You know the amount of time or specifically complexity or specifically effort, right? It's the relative size between the stories and that's going to depend on each team's going to be a little bit different. That's why each team usually has, you know, even if they have the kind of similar output they might have.
+Christopher Hunter 33 minutes 18 seconds
+Different story points that they deliver each Sprint because as a team they've come to, you know, a consensus on how they're going to estimate. I used to say that I used to relate it to like getting going into the car shop and you know you've got an oil change, which is really simple. You've got maybe like a.
+Christopher Hunter 33 minutes 38 seconds
+Higher rotation, which is a little more complex. And then you've got a complete alignment change, which is, you know, a much more complex story. And you know, a developer who's been working in the car shop for 10 years, you know, might say, hey.
+Christopher Hunter 33 minutes 54 seconds
+You know that complete realignment's only going to take me a day where, you know, a guy that's just started last week would be like, Oh well, to do an alignment's going to take me like 3 days, right? But even though they would both disagree on how much time something takes, they can both agree that the relative size of a.
+Christopher Hunter 34 minutes 13 seconds
+Alignment is larger than a tire rotation is larger than an oil change. So it's allowing, you know, developers of of different experience and you know, personal velocity to kind of agree on how big something is relative to other stuff.
+Christopher Hunter 34 minutes 31 seconds
+And the way you plan it is you look at your previous velocity over past sprints and you do it the same way Las Vegas plans odds, right? You take that velocity and you use that to plan the next Sprint. And that's usually, you know, the past success or the past deliverables are the best predictor of future. So you just go on that.
+Christopher Hunter 34 minutes 51 seconds
+But.
+Christopher Hunter 34 minutes 55 seconds
+3.
+Christopher Hunter 34 minutes 57 seconds
+Anyway, as Brett was saying.
+Christopher Hunter 35 minutes
+We do Scrum different and we do it different because Scrum breaks when it hits certain industries, certain team designations. Scrum was designed in mind with everybody being a developer and being able to wear a different, you know, like I could be a developer today and a tester tomorrow.
+Christopher Hunter 35 minutes 20 seconds
+And the business analyst on Friday, right. And because of that, it was very easy for everybody to come to the same agreement on, you know, the relative size of stuff when we have, you know, testers, developers.
+Christopher Hunter 35 minutes 35 seconds
+Product owners and they're all contributing points that can muddy the waters, so.
+
+Brett Sears
+35 minutes 40 seconds35:40
+Brett Sears 35 minutes 40 seconds
+Yeah, that cross-functional resource thing was something that they didn't really factor in when they broke up Scrum into its current form. So it it's made Scrum more challenging.
+Brett Sears 35 minutes 56 seconds
+To implement than before. But I mean again, we have smart people on the team. We can figure out ways to get through the areas that are a little more challenging.
+Brett Sears 36 minutes 13 seconds
+That's the cool thing about Scrum is you guys all get your input and and get to decide what works best for the team.
+Brett Sears 36 minutes 24 seconds
+That's where we get the value.
+Brett Sears 36 minutes 30 seconds
+Did we go over? We did, didn't we?
+Brett Sears 36 minutes 34 seconds
+All right. Anything else real quick?
+Brett Sears 36 minutes 40 seconds
+Alright, thank you everyone. Everyone have a wonderful day.
+
+Carmen-Bianca Moldovan-Pavel
+36 minutes 44 seconds36:44
+Carmen-Bianca Moldovan-Pavel 36 minutes 44 seconds
+Thank you.
+Carmen-Bianca Moldovan-Pavel 36 minutes 46 seconds
+Thank you. Same, bye.
+
