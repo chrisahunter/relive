@@ -1,0 +1,13 @@
+Chat widget 
+<!-- Script Start -->
+<script type="text/javascript">
+        (function () {
+        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = "https://us.customer.ixhello.com/chatbot/Script/0d3367d2-5bd7-4116-9531-e06eee64bc62";
+        s1.charset = "UTF-8";
+        s1.setAttribute("crossorigin", "*");
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+</script>
+<!-- Script End -->
